@@ -4,5 +4,16 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1659684220",
+      "groups": {
+        "": [
+          "https://imgur.com/a/AezOK5W"
+        ]
+      }
+    }
+  }
 }
